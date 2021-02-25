@@ -73,11 +73,6 @@ ul {
     padding: 0;
 }
 
-/*-- header --*/
-
-/* header */
-
-/* CSS Document */
 
 header {
     position: absolute;
@@ -114,19 +109,11 @@ nav {
 
 }
 
-
-
-/* Since we'll have the "ul li" "float:left"
- * we need to add a clear after the container. */
-
 nav:after {
     content: "";
     display: table;
     clear: both;
 }
-
-/* Removing padding, margin and "list-style" from the "ul",
- * and adding "position:reltive" */
 
 nav ul {
     float: right;
@@ -429,7 +416,7 @@ li > a:only-child:after {
 }
 
 .banner-info-w3layouts {
-    padding-top: 23em;
+    padding-top: 10em;
     text-align: center;
 }
 
@@ -452,10 +439,10 @@ li > a:only-child:after {
 }
 
 .read-more {
-    margin-top: 1.2em;
+    margin-top: 10em;
 }
 
-a.read-more {
+button.read-more {
     background: #03f4eb;
     color: #fff;
     padding: 0.8em 3em;
@@ -783,38 +770,57 @@ span.title {
     .about-in .card {
         padding: 1.5em .5em;
     }
+    .taller{
+        height: auto;
+    }
 }
 
 @media(max-width:1024px) {
-   
+    .taller{
+        height: auto;
+    }
 }
 
 @media(max-width:991px) {
-    
+    .taller{
+        height: auto;
+    }
 }
 
 @media(max-width:736px) {
-    
+    .taller{
+        height: auto;
+    }
 }
 
 @media(max-width:480px) {
-    
+    .taller{
+        height: auto;
+    }
 }
 
 @media(max-width:440px) {
-   
+    .taller{
+        height: auto;
+    }
 }
 
 @media(max-width:414px) {
-    
+    .taller{
+        height: auto;
+    }
 }
 
 @media(max-width:384px) {
-    
+    .taller{
+        height: auto;
+    }
 }
 
 @media(max-width:320px) {
-    
+    .taller{
+        height: auto;
+    }
 }
 
 /* //team responsive */
