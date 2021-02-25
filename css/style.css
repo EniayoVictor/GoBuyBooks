@@ -1392,6 +1392,12 @@ a.move-top span {
     .tab-wrap {
         padding: 2em 0em;
     }
+        
+    .banner-info-w3layouts {
+        padding-top: 8em;
+
+    }
+}
 
     form#contactform1 {
         margin-bottom: 3em;
@@ -1419,7 +1425,10 @@ a.move-top span {
         font-size: 2em;
         margin-bottom: 1em;
     }
+    .banner-info-w3layouts {
+        padding-top: 8em;
 
+    }
     .middle,
     .middle-right,
     .order-left-content,
@@ -1457,6 +1466,10 @@ a.move-top span {
         margin-top: 0em;
     }
 }
+.banner-info-w3layouts {
+    padding-top: 8em;
+
+}
 
 @media screen and (max-width: 667px) {
 
@@ -1464,7 +1477,10 @@ a.move-top span {
     h3.tittle.two {
         font-size: 1.8em;
     }
+    .banner-info-w3layouts {
+        padding-top: 8em;
 
+    }
     .tab-main label {
         padding: 10px 30px;
     }
@@ -1499,6 +1515,10 @@ a.move-top span {
     .layer {
         min-height: 30em;
     }
+    .banner-info-w3layouts {
+        padding-top: 8em;
+
+    }
 }
 
 
@@ -1527,7 +1547,10 @@ a.move-top span {
         padding: 10px 20px;
         font-size: 0.8em;
     }
+    .banner-info-w3layouts {
+        padding-top: 8em;
 
+    }
     form#contactform1 {
         margin-bottom: 2em;
         padding: 0 0 2em 0;
@@ -1552,7 +1575,10 @@ a.move-top span {
     h3.tittle.two {
         font-size: 1.6em;
     }
+    .banner-info-w3layouts {
+        padding-top: 4em;
 
+    }
     .main-content,
     .layer {
         min-height: 25em;
@@ -1584,10 +1610,18 @@ a.move-top span {
         padding: 16px 0;
         width: 100%;
     }
+    .banner-info-w3layouts {
+        padding-top: 4em;
+
+    }
 }
 @media screen and (max-width:320px) {
 .about-text-grid h3, .about-text-grid1 h3 {
     font-size: 1.5em;
+}
+.banner-info-w3layouts {
+    padding-top: 4em;
+
 }
 }
 /*-- //Responsive design --*/
