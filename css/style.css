@@ -493,7 +493,15 @@ button.read-more {
     color: #272525;
     font-weight: 700;
 }
-
+#contactButton{
+    background: transparent;
+    border: none;
+}
+#theContactButton{
+    z-index: 2;
+    margin-top: 200px;
+    position: fixed;
+}
 .content-left-bottom {
     margin-top: 5em;
 }
